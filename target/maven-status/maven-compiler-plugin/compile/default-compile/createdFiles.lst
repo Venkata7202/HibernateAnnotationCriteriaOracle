@@ -1,0 +1,7 @@
+com\aits\dao\package-info.class
+com\aits\dao\StudentCriteria.class
+com\aits\bean\package-info.class
+com\aits\dao\StudentDAO.class
+com\aits\service\StudentTest.class
+com\aits\bean\Student.class
+com\aits\service\package-info.class
